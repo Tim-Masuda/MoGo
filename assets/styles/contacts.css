@@ -1,14 +1,14 @@
-body{
+body {
     background-color: rgb(192, 181, 173);
 }
 
-.mm{
+.mm {
     font-size: 40px;
     text-align: center;
     color: rgb(86, 86, 225);
     transition: border 0.5s linear;
 }
 
-.mm:hover{
+.mm:hover {
     border: 5px solid rgb(86, 86, 225);
 }
